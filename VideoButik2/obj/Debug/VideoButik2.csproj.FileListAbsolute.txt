@@ -85,4 +85,3 @@ D:\GIT\VideoButik\VideoButik2\bin\Microsoft.AI.Web.xml
 D:\GIT\VideoButik\VideoButik2\obj\Debug\VideoButik2.csproj.CoreCompileInputs.cache
 D:\GIT\VideoButik\VideoButik2\obj\Debug\VideoButik2.dll
 D:\GIT\VideoButik\VideoButik2\obj\Debug\VideoButik2.pdb
-D:\GIT\VideoButik\VideoButik2\obj\Debug\VideoButik2.csprojResolveAssemblyReference.cache
